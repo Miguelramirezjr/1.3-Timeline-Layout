@@ -55,19 +55,36 @@
 /** TRIANGLES 1 & 2 **/
 
 .article1-triangle {
-border-style: solid;
-border-width: 25px 50px 25px 0;
-border-color: transparent #7EC0EB transparent transparent;
-position: absolute;
-top: 100px;
-left: 480px;
+  border-style: solid;
+  border-width: 25px 50px 25px 0;
+  border-color: transparent #7EC0EB transparent transparent;
+  position: absolute;
+  top: 100px;
+  left: 480px;
 }
 
 .article2-triangle {
-border-style: solid;
-border-width: 25px 50px 25px 0;
-border-color: transparent #4D96C8 transparent transparent;
-position: absolute;
-top: 570px;
-left: 480px;
+  border-style: solid;
+  border-width: 25px 50px 25px 0;
+  border-color: transparent #4D96C8 transparent transparent;
+  position: absolute;
+  top: 570px;
+  left: 480px;
 }
+
+.date1 {
+  font color: #B7CAD7;
+  width: 70px;
+  top: 100px;
+  left: 300px;
+  font-size: 20px;
+  position: absolute;
+}
+/** SIDEBAR
+.sidebar1 {
+  background-color: red;
+  font-size: 30px;
+  position: absolute;
+  top: 60px;
+  right: 1000px;
+}**/
